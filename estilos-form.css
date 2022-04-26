@@ -1,0 +1,37 @@
+
+body{
+	background-color: #F3ECDB;
+	color: #506266;
+	font-family: Georgia,Helvetica, sans-serif;
+	width: 100%;
+	
+}
+	
+#form {
+    border:1px solid #990000;
+    width:450px;
+    margin:auto;
+}
+
+h1 {
+    font-weight:bold;
+    font-size:30px;
+}
+
+h2 {
+	font-weight:bold;
+    font-size:26px;
+    color: #5e4450;
+}
+
+h3 {
+	font-weight:bold;
+    font-size:22px;
+}
+
+.btn {
+    padding:3px;
+    width: 60px;
+    color:transparent;
+    border:1px solid #000000;
+}
